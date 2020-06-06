@@ -4,5 +4,6 @@
 <h2>Hello World! Tôi là Hậu đây</h2>
 <h2>GitHub: Tao Biết rồi</h2>
 <h2>Commit: 20200606_1</h2>
+<h2>Commit: 20200606_1</h2>
 </body>
 </html>
