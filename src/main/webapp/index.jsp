@@ -23,11 +23,9 @@
 <!-- 		<source width="320" height="240" controls="controls" src="https://www.youtube.com/embed/R3MTk-LiUmk" type="audio/mp4"> -->
 <!-- 	</video> -->
 	<h2>URL Local</h2>
-	<iframe width="752" height="423"
-		src="file:///D:/DataForWebEclipse/video/VideoTest.mp4"
-		title="YouTube video player" frameborder="0"
-		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-		allowfullscreen></iframe>
+   <video width="320" height="240" controls="controls">
+        <source src="file:///D:/DataForWebEclipse/video/VideoTest.mp4" type="audio/mp4">
+    </video>
 		
 	<h2>URL Youtube</h2>
 	<iframe width="752" height="423"
