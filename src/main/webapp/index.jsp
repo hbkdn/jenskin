@@ -15,9 +15,6 @@
 	<h2>Commit: 20210512_06</h2>
 	<h2>Commit: 20210724_5h21m</h2>
 	<h2>Commit: 20210724_5h24m: FROM ECLIPSE</h2>
-	<video width="320" height="240" controls="controls">
-		<source src="https://youtu.be/R3MTk-LiUmk"
-			type="audio/mp4">
-	</video>
+	<iframe width="640" height="360" src="https://youtu.be/R3MTk-LiUmk" frameborder="0" allowfullscreen></iframe>
 </body>
 </html>
