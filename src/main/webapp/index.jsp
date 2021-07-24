@@ -16,9 +16,8 @@
 	<h2>Commit: 20210724_5h21m</h2>
 	<h2>Commit: 20210724_5h24m: FROM ECLIPSE</h2>
 	<video width="320" height="240" controls="controls">
-		<source src="D:\DataForWebEclipse\video\VideoTest.mp4"
-			type="video/mp4">
+		<source src="https://youtu.be/R3MTk-LiUmk"
+			type="audio/mp4">
 	</video>
-	<embed src="D:\DataForWebEclipse\video\VideoTest.mp4" ></embed>
 </body>
 </html>
